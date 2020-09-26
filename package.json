@@ -1,0 +1,22 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "first test with npm init",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaarunachala/npm-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivaarunachala/npm-test/issues"
+  },
+  "homepage": "https://github.com/shivaarunachala/npm-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
